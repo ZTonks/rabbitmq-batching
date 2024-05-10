@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriorityQueues.Consume", "PriorityQueues.Consume\PriorityQueues.Consume.csproj", "{CD8A3C67-6BDE-42FF-BD18-64B138507532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueues.Produce", "PriorityQueues.Produce\PriorityQueues.Produce.csproj", "{6DF735F8-21C4-4B5D-B672-ACB4C69E0881}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8A3C67-6BDE-42FF-BD18-64B138507532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8A3C67-6BDE-42FF-BD18-64B138507532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8A3C67-6BDE-42FF-BD18-64B138507532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8A3C67-6BDE-42FF-BD18-64B138507532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF735F8-21C4-4B5D-B672-ACB4C69E0881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF735F8-21C4-4B5D-B672-ACB4C69E0881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF735F8-21C4-4B5D-B672-ACB4C69E0881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF735F8-21C4-4B5D-B672-ACB4C69E0881}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BD7782-3C6E-4D0B-AD77-9F6B1435626A}
+	EndGlobalSection
+EndGlobal
